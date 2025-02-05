@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`** 
 
-Meu nome é Pedro Henrique Ferreira Valim, tenho 20 anos e sou natural de São Paulo capital. Concluí o ensino médio no Exatus Colégio e Vestibulares e posteriormente ingressei na FEI (Fundação Educacional Inaciana) onde nos dias atuais curso Ciências da Computação! Sempre fui muito conectado ao mundo de tecnologia e só pretendo me emergir nesse cenário cada vez mais, a sensação de realizar um projeto e ficar satisfeito com o resultado é o que me abastece! 
+Meu nome é Pedro Henrique Ferreira Valim, tenho 20 anos e sou natural de São Paulo capital. Concluí o ensino médio no Exatus Colégio e Vestibulares e posteriormente ingressei na FEI (Fundação Educacional Inaciana) onde nos dias atuais curso Ciência da Computação! Sempre fui muito conectado ao mundo de tecnologia e só pretendo me emergir nesse cenário cada vez mais, a sensação de realizar um projeto e ficar satisfeito com o resultado é o que me abastece! 
 
 <p align="left">
       <a href="https://github.com/PedroHValim?tab=followers">
